@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "esJI1hKa2MuSfxP0B/yNAG5i1qmVZOSRO+6xZGGqgkw=",
+  "Source": "JwtWeatherApi",
+  "BasePath": "_content/JwtWeatherApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
