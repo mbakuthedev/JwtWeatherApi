@@ -38,3 +38,6 @@ C:\Users\dell\source\repos\JwtWeatherApi\JwtWeatherApi\obj\Debug\net6.0\refint\J
 C:\Users\dell\source\repos\JwtWeatherApi\JwtWeatherApi\obj\Debug\net6.0\JwtWeatherApi.pdb
 C:\Users\dell\source\repos\JwtWeatherApi\JwtWeatherApi\obj\Debug\net6.0\JwtWeatherApi.genruntimeconfig.cache
 C:\Users\dell\source\repos\JwtWeatherApi\JwtWeatherApi\obj\Debug\net6.0\ref\JwtWeatherApi.dll
+C:\Users\chidi\clone2\JwtWeatherApi\obj\Debug\net6.0\JwtWeatherApi.dll
+C:\Users\chidi\clone2\JwtWeatherApi\obj\Debug\net6.0\refint\JwtWeatherApi.dll
+C:\Users\chidi\clone2\JwtWeatherApi\obj\Debug\net6.0\JwtWeatherApi.pdb
